@@ -1,2 +1,2 @@
-# AI_assignments
-Holds all the code from my assignments for my Artificial Intelligence class
+# Pacman Search
+Holds the code for my Pacman AI basic searching algorithms
